@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Welcome
+title: Bonjour
 eleventyNavigation:
   key: Home
 ---
 
-Welcome to Eleventy starter.
+Bienvenue à Eleventy starter.
